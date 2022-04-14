@@ -1,4 +1,4 @@
-var randomnumber1= Math.floor(Math.random() * 6) + 1;
+var randomnumber1= Math.floor(Math.random() * 6);
 
 var dicerandomimage= "dice"+randomnumber1+".png";
 
